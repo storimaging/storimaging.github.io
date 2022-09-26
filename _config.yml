@@ -60,6 +60,9 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/storimaging"
 
+atom_feed:
+  hide: true
+
 defaults:
   # _pages
   - scope:
