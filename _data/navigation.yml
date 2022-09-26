@@ -1,0 +1,9 @@
+# - title: "Image Analysis"
+#    url: /ImageAnalysis/
+main:
+  - title: "Generation"
+    url: /notebooksImageGeneration/
+  - title: "Restoration"
+    url: /notebooksRestoration/
+  - title: "Contrast, color and image statistics"
+    url: /notebooksContrastAndColor/
