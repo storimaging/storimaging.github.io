@@ -1,19 +1,9 @@
 ---
 layout: splash
 author_profile: false
-title: "
-
-
-Stochastic Recipes in Imaging
-
-
-
-
-"
+title: "Stochastic Recipes in Imaging"
 header:
-    overlay_image: /images/HomeImages/Lirios_Julie.jpg
-intro:
-    - excerpt: '  '
+    image: /images/HomeImages/Lirios_Julie.jpg
 feature_row1:
     - url: /notebooksImageGeneration/
       image_path:  /images/HomeImages/Generation.jpg
@@ -29,7 +19,5 @@ feature_row2:
       image_path: /images/HomeImages/Generation.jpg
       title: "Image analysis"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row1" %}
