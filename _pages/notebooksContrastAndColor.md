@@ -5,7 +5,6 @@ header:
   overlay_image: /images/headerImages/ContrastAndColor.png
   caption: "Renoir with Gauguin colors"
 title: "Contrast, color and image statistics"
-excerpt: Here you'll find all the notebooks available about contrast, color and image statistics. 
 feature_row1:
     - title: "Radiometry"
       image_path: /images/NotebookImages/ContrastAndColor/Radiometry.jpg  

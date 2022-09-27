@@ -5,7 +5,6 @@ header:
   overlay_image: /images/headerImages/Generation.jpg
   caption: "Paris with Van Gogh Style"
 title: "Image Generation"
-excerpt: Here you'll find all the notebooks available about image generation methods. 
 feature_row1:
     - title: "Texture Synthesis"
       image_path: /images/NotebookImages/Generation/Grapes.jpg  

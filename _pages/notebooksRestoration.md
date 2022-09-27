@@ -6,7 +6,6 @@ header:
   caption: "Dinan: Noisy to Denoised"
   overlay_filter: 0.2
 title: "Image Restoration"
-excerpt: Here you'll find all the notebooks available about image restoration methods.
 feature_row1:
     - image_path: /images/NotebookImages/Restoration/NLA.jpg
       title: "Non local approaches for image denoising"
