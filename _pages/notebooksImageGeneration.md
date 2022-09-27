@@ -23,7 +23,7 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Maximum_entropy_model_for_CNN_texture_synthesis_with_solution.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
-    - title: "[Texture Interpolation](http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/CNN_Texture_Interpolation.ipynb)"
+    - title: "Texture Interpolation"
       image_path: /images/NotebookImages/Generation/TextInterpolation.jpg  
       excerpt: "*Texture interpolation* or mixing consists of generating new textures by mixing different examples of textures.     
       This practical session explains how to implement the Texture Interpolation between arbitrary textures based on the algorithm described on [J. Vacher, A. Davila, A. Kohn, and R. Coen-Cagli,Texture interpolation for probingvisual perception, Advances in Neural Information Processing Systems, (2020)](https://arxiv.org/pdf/2006.03698.pdf).
