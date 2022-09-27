@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: homepage
 author_profile: false
 title: "Stochastic Recipes in Imaging"
 header:

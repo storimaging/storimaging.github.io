@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: splashnew
 permalink: /notebooksRestoration/
 header:
   overlay_image: /images/headerImages/Restoration.jpg

@@ -1,5 +1,5 @@
 --- 
-layout: splash
+layout: splashnew
 permalink: /notebooksContrastAndColor/
 header:
   overlay_image: /images/headerImages/ContrastAndColor.png

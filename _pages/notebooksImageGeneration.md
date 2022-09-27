@@ -1,5 +1,5 @@
 --- 
-layout: splash
+layout: splashnew
 permalink: /notebooksImageGeneration/
 header:
   overlay_image: /images/headerImages/Generation.jpg
