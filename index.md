@@ -1,17 +1,17 @@
 ---
 layout: splash
 author_profile: false
-title: "Stochastic Recipes in Imaging"
-header:
-    overlay_image: /images/HomeImages/Lirios_Julie.jpg
-excerpt: "
+title: "
 
 
+Stochastic Recipes in Imaging
 
 
 
 
 "
+header:
+    overlay_image: /images/HomeImages/Lirios_Julie.jpg
 intro:
     - excerpt: '  '
 feature_row1:
