@@ -3,7 +3,6 @@ layout: splash
 permalink: /notebooksContrastAndColor/
 header:
   overlay_image: /images/headerImages/ContrastAndColor.png
-  caption: "Renoir with Gauguin colors"
 title: "Contrast, color and image statistics"
 feature_row1:
     - title: "Radiometry"

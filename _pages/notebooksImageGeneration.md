@@ -3,7 +3,6 @@ layout: splash
 permalink: /notebooksImageGeneration/
 header:
   overlay_image: /images/headerImages/Generation.jpg
-  caption: "Paris with Van Gogh Style"
 title: "Image Generation"
 feature_row1:
     - title: "Texture Synthesis"

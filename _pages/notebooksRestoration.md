@@ -3,7 +3,6 @@ layout: splash
 permalink: /notebooksRestoration/
 header:
   overlay_image: /images/headerImages/Restoration.jpg
-  caption: "Dinan: Noisy to Denoised"
   overlay_filter: 0.2
 title: "Image Restoration"
 feature_row1:
