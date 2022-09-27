@@ -4,6 +4,10 @@ author_profile: false
 title: "Stochastic Recipes in Imaging"
 header:
     overlay_image: /images/HomeImages/Lirios_Julie.jpg
+excerpt: "
+
+
+"
 feature_row1:
     - url: /notebooksImageGeneration/
       image_path:  /images/HomeImages/Generation.jpg
