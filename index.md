@@ -3,7 +3,8 @@ layout: splash
 author_profile: false
 title: "Stochastic Recipes in Imaging"
 header:
-    image: /images/HomeImages/Lirios_Julie.jpg
+    overlay_image: /images/HomeImages/Lirios_Julie.jpg
+excerpt: "On this site you will find practical sessions to learn about generating and restoring images. Practice sessions can be run directly in Google Colab, without the need for any local installation."
 feature_row1:
     - url: /notebooksImageGeneration/
       image_path:  /images/HomeImages/Generation.jpg
