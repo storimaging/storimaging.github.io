@@ -12,6 +12,8 @@ excerpt: "
 
 
 "
+intro:
+    - excerpt: '  '
 feature_row1:
     - url: /notebooksImageGeneration/
       image_path:  /images/HomeImages/Generation.jpg
@@ -27,5 +29,7 @@ feature_row2:
       image_path: /images/HomeImages/Generation.jpg
       title: "Image analysis"
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row1" %}
