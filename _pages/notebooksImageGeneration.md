@@ -14,6 +14,9 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/CNN_Texture_Synthesis_with_solution.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/CNN_Texture_Synthesis_with_solution.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - title: "Texture Synthesis with Maximum Entropy"
       image_path: /images/NotebookImages/Generation/Coffee.jpg  
       excerpt: "This practical session implements the texture synthesis algorithm developed on [Maximum entropy methods for texture synthesis: theory and practice,  V. De Bor toli, A. Desolneux, A. Dur mus, B. Galerne, A. Leclaire, SIAM Jour nal on Mathematics of Data Science (SIMODS), 2021](https://arxiv.org/pdf/1912.01691.pdf).
@@ -23,6 +26,9 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Maximum_entropy_model_for_CNN_texture_synthesis_with_solution.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Maximum_entropy_model_for_CNN_texture_synthesis_with_solution.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - title: "Texture Interpolation"
       image_path: /images/NotebookImages/Generation/TextInterpolation.jpg  
       excerpt: "*Texture interpolation* or mixing consists of generating new textures by mixing different examples of textures.     
@@ -46,6 +52,9 @@ feature_row2:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_synthesis_and_mixing.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_synthesis_and_mixing.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - title: "Gaussian texture inpainting"
       image_path: /images/NotebookImages/Generation/GaussianTextureInpainting.jpg 
       excerpt: " Image inpainting is a famous image processing task that consists in filling missing regions of an image based on the surrounding context. This session explains how to implement texture inpainting using the algorithm developed on [An Algorithm for Gaussian Texture Inpainting (Bruno Galerne, Arthur Leclaire), accepted to Image Processing Online, 2017.](http://www.ipol.im/pub/art/2017/198/)
@@ -55,6 +64,9 @@ feature_row2:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_inpainting.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_inpainting.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
 feature_rowAUX:
     - title: "Style Transfer"
       image_path: /images/NotebookImages/Generation/StyleTransfer.jpg  
@@ -65,6 +77,9 @@ feature_rowAUX:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Style_Transfer.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Style_Transfer.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
 feature_row3:
     - title: "Energy based models"
       image_path: /images/NotebookImages/Generation/EnergyBasedModels.jpg 
@@ -75,6 +90,9 @@ feature_row3:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Energy_based_models.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Energy_based_models.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - title: "Normalizing flows"
       image_path: /images/NotebookImages/Generation/NormalizingFlows.jpg 
       excerpt: "This practical session explains how to use and train normalizing flows (NF) as generative models. Specifically, we will use NF to generate images as MNIST digits.
@@ -84,6 +102,9 @@ feature_row3:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Normalizing_flows.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Normalizing_flows.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     
 ---
 

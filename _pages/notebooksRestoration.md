@@ -15,6 +15,9 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Non_local_approaches_for_image_denoising.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Non_local_approaches_for_image_denoising.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/NLM.jpg
       title: "Non local means for denoising"
       excerpt: "This practical session explains how to implement the [Non local means algorithm](https://epubs.siam.org/doi/pdf/10.1137/040616024?casa_token=T_quJzhNoP8AAAAA:JYmsToAmRuk_jyIaLUEpwQqlmu5rCCB_j49qFTrhCchWUE2RgFC8SWsh5i-yEVnrNd1GTt5f29HClw) for denoising images, introduced in 2005 by Buadès, Coll and Morel in [Buades, A., Coll, B., & Morel, J. M. (2005). *A review of image denoising algorithms, with a new one*. Multiscale modeling & simulation, 4(2), 490-530.](https://hal.archives-ouvertes.fr/hal-00271141/document). The session describes various implementations of the algorithm: from the naive version, through an implementation using integral images, and finally the pytorch version.
@@ -24,6 +27,9 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Non_Local_Means_for_denoising.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Non_Local_Means_for_denoising.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/NetD.jpg
       title: "Networks for image denoising"
       excerpt: "This session works with convolutional neural networks (CNN) to denoise images. Special emphasis is placed on [FFDnet](https://arxiv.org/abs/1710.04026) as well as on generalization problems and solutions such as Bias free networks, studied in [Mohan et al., Robust and interpretable blind image denoising via bias-free convolutional neural networks, 2020](https://arxiv.org/abs/1906.05478v3).
@@ -33,6 +39,9 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Networks_for_image_denoising.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Networks_for_image_denoising.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
 feature_row2:
     - image_path: /images/NotebookImages/Restoration/VA.jpg
       title: "Variational approaches for image restoration"
@@ -43,6 +52,9 @@ feature_row2:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Variational_approaches_for_image_restoration.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Variational_approaches_for_image_restoration.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/PnP.jpg
       title: "Plug and Play optimization"
       excerpt: "Plug-and-play (PnP) is a non-convex framework that integrates modern denoising priors into proximal algorithms. This practical session explains and shows inpainting end deblurring experiments using the following PnP algorithms: PnP ADMM, PnP FBS, PnP BBS, PnP BBS2 and PnP BBS3.
@@ -52,6 +64,9 @@ feature_row2:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Plug_and_Play_optimization.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Plug_and_Play_optimization.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/Sampling.jpg
       title: "TV Sampling"
       excerpt: "This practical session explains how to draw samples from different distributions. It uses the Metropolis algorithm, inspired by what is used in [Louchet, C., & Moisan, L. (2008, August). Total variation denoising using posterior expectation, EUSIPCO 2008](https://hal.archives-ouvertes.fr/hal-00258849/file/lm08ok.pdf).
@@ -61,6 +76,9 @@ feature_row2:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Sampling_TV.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/Sampling_TV.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
 feature_row3:
     - image_path: /images/NotebookImages/Restoration/Sampling_ICE.jpg
       title: "TV-ICE Sampling"
@@ -71,6 +89,9 @@ feature_row3:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/TVICE.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/TVICE.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/Sampling_ULA.jpg
       title: "ULA Sampling"
       excerpt: "This practical session uses ULA (Unadjusted Langevin Algorithm) to sample from distributions. In particular, this practical session shows how to use the algorithm to deblurring an image.
@@ -80,6 +101,9 @@ feature_row3:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/ULA_Sampling.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/Restoration/ULA_Sampling.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
 ---
 
 {% include feature_row id="feature_row1" %}
