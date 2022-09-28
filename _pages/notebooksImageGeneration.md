@@ -43,18 +43,6 @@ feature_row1:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_row2:
-    - title: "Gaussian texture synthesis and mixing"
-      image_path: /images/NotebookImages/Generation/GaussianTextureMixing.jpg
-      excerpt: "This practical session shows how to obtain texton and Gaussian synthesis of color and gray textures, as well as texture mixing.
-
-
-      *Image: texture mixing (wall and water of Tulum)*"
-      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_synthesis_and_mixing.ipynb"
-      btn_label: "Open In Colab"
-      btn_class: "btn--primary"
-      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_synthesis_and_mixing.ipynb"
-      btn_label2: "Open In nbviewer"
-      btn_class2: "btn--primary"
     - title: "Gaussian texture inpainting"
       image_path: /images/NotebookImages/Generation/GaussianTextureInpainting.jpg 
       excerpt: " Image inpainting is a famous image processing task that consists in filling missing regions of an image based on the surrounding context. This session explains how to implement texture inpainting using the algorithm developed on [An Algorithm for Gaussian Texture Inpainting (Bruno Galerne, Arthur Leclaire), accepted to Image Processing Online, 2017.](http://www.ipol.im/pub/art/2017/198/)
@@ -78,6 +66,18 @@ feature_rowAUX:
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Style_Transfer.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
+    - title: "Gaussian texture synthesis and mixing"
+      image_path: /images/NotebookImages/Generation/GaussianTextureMixing.jpg
+      excerpt: "This practical session shows how to obtain texton and Gaussian synthesis of color and gray textures, as well as texture mixing.
+
+
+      *Image: texture mixing (wall and water of Tulum)*"
+      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_synthesis_and_mixing.ipynb"
+      btn_label: "Open In Colab"
+      btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_synthesis_and_mixing.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_row3:
