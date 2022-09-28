@@ -33,6 +33,9 @@ feature_row1:
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/CNN_Texture_Interpolation.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/CNN_Texture_Interpolation.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
 feature_row2:
     - title: "Gaussian texture synthesis and mixing"
       image_path: /images/NotebookImages/Generation/GaussianTextureMixing.jpg
