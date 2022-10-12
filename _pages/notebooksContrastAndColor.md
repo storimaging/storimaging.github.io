@@ -3,7 +3,7 @@ layout: splashnew
 permalink: /notebooksContrastAndColor/
 header:
   overlay_image: /images/headerImages/ContrastAndColor.png
-title: "Contrast, color and image statistics"
+title: "Contrast and color"
 feature_row1:
     - title: "Radiometry"
       image_path: /images/NotebookImages/ContrastAndColor/Radiometry.jpg  
