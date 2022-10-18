@@ -20,7 +20,7 @@ feature_row1:
       btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/NLM.jpg
       title: "Non local means for denoising"
-      excerpt: "This practical session explains how to implement the [Non local means algorithm](https://epubs.siam.org/doi/pdf/10.1137/040616024?casa_token=T_quJzhNoP8AAAAA:JYmsToAmRuk_jyIaLUEpwQqlmu5rCCB_j49qFTrhCchWUE2RgFC8SWsh5i-yEVnrNd1GTt5f29HClw) for denoising images, introduced in 2005 by Buadès, Coll and Morel in [Buades, A., Coll, B., & Morel, J. M. (2005). *A review of image denoising algorithms, with a new one*. Multiscale modeling & simulation, 4(2), 490-530.](https://hal.archives-ouvertes.fr/hal-00271141/document). The session describes various implementations of the algorithm: from the naive version, through an implementation using integral images, and finally the pytorch version.
+      excerpt: "This practical session explains how to implement the [Non local means algorithm](https://epubs.siam.org/doi/pdf/10.1137/040616024?casa_token=T_quJzhNoP8AAAAA:JYmsToAmRuk_jyIaLUEpwQqlmu5rCCB_j49qFTrhCchWUE2RgFC8SWsh5i-yEVnrNd1GTt5f29HClw) for denoising images, introduced in 2005 by Buadès, Coll and Morel in [Buadès, A., Coll, B., & Morel, J.-M. (2005). *A review of image denoising algorithms, with a new one*. Multiscale modeling & simulation, 4(2), 490-530.](https://hal.archives-ouvertes.fr/hal-00271141/document). The session describes various implementations of the algorithm: from the naive version, through an implementation using integral images, and finally the pytorch version.
       
       
       *Image: Pytorch NL means denoising (Saint Emilion)*"
