@@ -45,10 +45,10 @@ feature_row1:
 feature_row2:
     - image_path: /images/NotebookImages/Restoration/VA.jpg
       title: "Variational approaches for image restoration"
-      excerpt: "In this practical session we address different restoration problems such as inpainting, denoising and deblurring. Several variational approaches are used depending on the conditions of the problem: Tychonov, Total variation L1 and L2 and Wiener.
+      excerpt: "In this practical session we address different restoration problems such as inpainting, denoising and deblurring. Several variational approaches are used depending on the conditions of the problem: Tikhonov regularization, Total variation L1 and L2, and Wiener filtering.
       
       
-      *Image: inpainting (Bordeaux)*"
+      *Image: inpainting and denoising (Simpson)*"
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/Variational_approaches_for_image_restoration.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
