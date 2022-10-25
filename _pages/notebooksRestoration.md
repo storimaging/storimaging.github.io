@@ -94,7 +94,7 @@ feature_row3:
       btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/Sampling_ULA.jpg
       title: "ULA Sampling"
-      excerpt: "This practical session uses ULA (Unadjusted Langevin Algorithm) to sample from distributions. In particular, this practical session shows how to use the algorithm to deblurring an image.
+      excerpt: "This practical session uses ULA (Unadjusted Langevin Algorithm) to sample from distributions. In particular, this practical session shows how to use the algorithm to remove blur and noise from an image.
 
 
       *Image: total variation ULA sampling for deblurring (Simpson)*"
