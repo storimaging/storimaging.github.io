@@ -42,31 +42,31 @@ feature_row1:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_row2:
-    - title: " Color transfer with Sliced Optimal Transport"
+    - title: " Color transfer with sliced optimal transport"
       image_path: /images/NotebookImages/ContrastAndColor/ColorTransfer.jpg 
       excerpt: "A notebook on color transfer between images, using Sliced Optimal Transport.
 
 
-      *Image: Color Transfer with Sliced OT*"
+      *Image: Color transfer with sliced optimal transport*"
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ContrastAndColor/TP_color_transfer.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary" 
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ContrastAndColor/TP_color_transfer.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-    - title: "Color transfer with Regularized OT"
+    - title: "Color transfer with regularized optimal transport"
       image_path: /images/NotebookImages/ContrastAndColor/ColorTransferSinkhorn.jpg 
       excerpt: "A notebook on color transfer between images, using Entropic Optimal Transport.
 
 
-      *Image: Color Transfer with regularized OT*"
+      *Image: Color transfer with regularized optimal transport*"
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ContrastAndColor/TP_color_transfer_with_Sinkhorn.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ContrastAndColor/TP_color_transfer_with_Sinkhorn.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-    - title: "Optimal Transport between Gaussian Mixture Models"
+    - title: "Optimal transport between Gaussian mixture models (GMM-OT)"
       image_path: /images/NotebookImages/ContrastAndColor/GMM2D.jpg
       excerpt: "An introductory notebook on Optimal transport between Gaussian Mixture Models (GMM), as described in [Delon, Desolneux, *A Wasserstein-type distance in the space of Gaussian Mixture Models*, 2019.](https://hal.archives-ouvertes.fr/hal-02178204) 
 

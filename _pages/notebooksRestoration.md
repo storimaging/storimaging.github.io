@@ -68,7 +68,7 @@ feature_row2:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/Sampling.jpg
-      title: "TV Sampling"
+      title: "Total Variation sampling with the Metropolis algorithm"
       excerpt: "This practical session explains how to draw samples from different distributions. It uses the Metropolis algorithm, inspired by what is used in [Louchet, C., & Moisan, L. (2008, August). Total variation denoising using posterior expectation, EUSIPCO 2008](https://hal.archives-ouvertes.fr/hal-00258849/file/lm08ok.pdf).
       
       
@@ -81,11 +81,11 @@ feature_row2:
       btn_class2: "btn--primary"
 feature_row3:
     - image_path: /images/NotebookImages/Restoration/Sampling_ICE.jpg
-      title: "TV-ICE Sampling"
+      title: "Total Variation - Iterated Conditional Expectation (TV-ICE)"
       excerpt: "This session focuses on image denoising using the classical TVL2 model using the algorithm Iterated Conditional Expectation (ICE). It is inspired by the article [Louchet, C.,  Moisan, L., *Total variation denoising using iterated conditional expectation*. In 2014 22nd European Signal Processing Conference (EUSIPCO) (pp. 1592-1596). 2014](https://hal.archives-ouvertes.fr/hal-01214735). 
       
       
-      *Image: total variation ICE sampling (Martina)*"
+      *Image: TV-ICE (Martina)*"
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/TVICE.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
@@ -93,11 +93,11 @@ feature_row3:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
     - image_path: /images/NotebookImages/Restoration/Sampling_ULA.jpg
-      title: "ULA Sampling"
-      excerpt: "This practical session uses ULA (Unadjusted Langevin Algorithm) to sample from distributions. In particular, this practical session shows how to use the algorithm to remove blur and noise from an image.
+      title: "Unadjusted Langevin Algorithm for inverse problems in imaging"
+      excerpt: "This practical session uses ULA (Unadjusted Langevin Algorithm) to sample from posterior distributions in simple inverse problems. In particular, this practical session shows how to use the algorithm to remove blur and noise from an image.
 
 
-      *Image: total variation ULA sampling for deblurring (Simpson)*"
+      *Image: Total variation ULA sampling for deblurring (Simpson)*"
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/Restoration/ULA_Sampling.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
