@@ -3,9 +3,9 @@ layout: splashnew
 permalink: /notebooksImageGeneration/
 header:
   overlay_image: /images/headerImages/Generation.jpg
-title: "Image Generation"
+title: "Image generation"
 feature_row1:
-    - title: "Texture Synthesis"
+    - title: "Texture synthesis"
       image_path: /images/NotebookImages/Generation/Grapes.jpg  
       excerpt: "*Texture synthesis* attempts to, given an input texture image, produce an output texture image that is both visually similar and pixel-wise different from the input texture. The output image should ideally be perceived as another part of the same large piece of homogeneous material from which the input texture originated. This practical session explains how to implement the Texture Synthesis through optimization based on the algorithm described on [L. Gatys, A. S. Ecker, and M. Bethge. Texture synthesis using convolutional neural networks. In Advances in Neural Information Processing Systems, pages 262–270, 2015. 4](https://arxiv.org/abs/1505.07376).
 
@@ -17,7 +17,7 @@ feature_row1:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/CNN_Texture_Synthesis_with_solution.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-    - title: "Texture Synthesis with Maximum Entropy"
+    - title: "Texture synthesis with Maximum Entropy"
       image_path: /images/NotebookImages/Generation/Coffee.jpg  
       excerpt: "This practical session implements the texture synthesis algorithm developed on [Maximum entropy methods for texture synthesis: theory and practice,  V. De Bor toli, A. Desolneux, A. Dur mus, B. Galerne, A. Leclaire, SIAM Jour nal on Mathematics of Data Science (SIMODS), 2021](https://arxiv.org/pdf/1912.01691.pdf).
 
@@ -29,7 +29,7 @@ feature_row1:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Maximum_entropy_model_for_CNN_texture_synthesis_with_solution.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-    - title: "Texture Interpolation"
+    - title: "Texture interpolation"
       image_path: /images/NotebookImages/Generation/TextInterpolation.jpg  
       excerpt: "*Texture interpolation* or mixing consists of generating new textures by mixing different examples of textures.     
       This practical session explains how to implement the Texture Interpolation between arbitrary textures based on the algorithm described on [J. Vacher, A. Davila, A. Kohn, and R. Coen-Cagli,Texture interpolation for probingvisual perception, Advances in Neural Information Processing Systems, (2020)](https://arxiv.org/pdf/2006.03698.pdf).
@@ -56,7 +56,7 @@ feature_row2:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_rowAUX:
-    - title: "Style Transfer"
+    - title: "Style transfer"
       image_path: /images/NotebookImages/Generation/StyleTransfer.jpg  
       excerpt: "*Style transfer* permits to take an image and reproduce it with a new artistic style. The algorithm takes three images, an input image, a content image, and a style image, and changes the input to resemble the content of the content-image and the artistic style of the style-image. This practical session explains how to implement the Neural style transfer based on the algorithm developed on [L. Gatys, A. Ecker and M. Bethge, Image style transfer using convolutional neural networks, Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), pp. 2414-2423, Jun. 2016.](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html).
 

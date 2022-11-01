@@ -29,7 +29,7 @@ feature_row1:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ContrastAndColor/TP_color.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-    - title: "Amplitude jumps in Images"
+    - title: "Amplitude jumps in images"
       image_path: /images/NotebookImages/ContrastAndColor/AmplitudeJumps.jpg
       excerpt: "A notebook where we study the distribution of amplitude jumps in images.
 
