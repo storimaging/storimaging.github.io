@@ -4,7 +4,7 @@ permalink: /notebooksRestoration/
 header:
   overlay_image: /images/headerImages/Restoration.jpg
   overlay_filter: 0.2
-title: "Image Restoration"
+title: "Image restoration"
 feature_row1:
     - image_path: /images/NotebookImages/Restoration/NLA.jpg
       title: "Non local approaches for image denoising"
