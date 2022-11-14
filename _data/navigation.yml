@@ -1,6 +1,8 @@
 # - title: "Image Analysis"
 #    url: /ImageAnalysis/
 main:
+  - title: "About"
+    url: /about/
   - title: "Generation"
     url: /notebooksImageGeneration/
   - title: "Restoration"
