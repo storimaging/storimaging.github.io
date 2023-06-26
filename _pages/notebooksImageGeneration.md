@@ -85,7 +85,7 @@ feature_rowAUX:
       excerpt: "This practical session explains how to use and train DCGANs as generative models. Specifically, we will use DCGANs to generate images as MNIST digits.
 
 
-      *Image: Interpolation in latent space of generate digits*"
+      *Image: Digits generated with the DCGAN network*"
       url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/DCGAN.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
