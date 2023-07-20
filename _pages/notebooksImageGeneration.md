@@ -43,19 +43,6 @@ feature_row1:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_row2:
-    - title: "Gaussian texture inpainting"
-      image_path: /images/NotebookImages/Generation/GaussianTextureInpainting.jpg 
-      excerpt: " Image inpainting is a famous image processing task that consists in filling missing regions of an image based on the surrounding context. This session explains how to implement texture inpainting using the algorithm developed on [An Algorithm for Gaussian Texture Inpainting (Bruno Galerne, Arthur Leclaire), accepted to Image Processing Online, 2017.](http://www.ipol.im/pub/art/2017/198/)
-
-
-      *Image: Texture inpainting of tissue*"
-      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_inpainting.ipynb"
-      btn_label: "Open In Colab"
-      btn_class: "btn--primary"
-      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_inpainting.ipynb"
-      btn_label2: "Open In nbviewer"
-      btn_class2: "btn--primary"
-feature_rowAUX:
     - title: "Style transfer"
       image_path: /images/NotebookImages/Generation/StyleTransfer.jpg  
       excerpt: "*Style transfer* permits to take an image and reproduce it with a new artistic style. The algorithm takes three images, an input image, a content image, and a style image, and changes the input to resemble the content of the content-image and the artistic style of the style-image. This practical session explains how to implement the Neural style transfer based on the algorithm developed on [L. Gatys, A. Ecker and M. Bethge, Image style transfer using convolutional neural networks, Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR), pp. 2414-2423, Jun. 2016.](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html).
@@ -93,6 +80,20 @@ feature_rowAUX:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_row3:
+    - title: "Texture synthesis with GMMOT"
+      image_path: /images/NotebookImages/Generation/TS_GMMOT.jpg
+      excerpt: "This practical session implements the texture synthesis algorithm developed in
+[Arthur Leclaire, Julie Delon, Agnès Desolneux. Optimal Transport Between GMM for multiscale Texture Synthesis. 2022. hal-03613622](https://hal.science/hal-03613622/document)
+
+
+      *Image: texture synthesis*"
+      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
+      btn_label: "Open In Colab"
+      btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
+feature_row4:
     - title: "Energy based models"
       image_path: /images/NotebookImages/Generation/EnergyBasedModels.jpg 
       excerpt: "This practical session explains how to use and train energy-based models (EBM) as generative models. Specifically, we will use EBM to generate images as MNIST digits.
@@ -117,8 +118,21 @@ feature_row3:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Normalizing_flows.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
+    - title: "Gaussian texture inpainting"
+      image_path: /images/NotebookImages/Generation/GaussianTextureInpainting.jpg 
+      excerpt: " Image inpainting is a famous image processing task that consists in filling missing regions of an image based on the surrounding context. This session explains how to implement texture inpainting using the algorithm developed on [An Algorithm for Gaussian Texture Inpainting (Bruno Galerne, Arthur Leclaire), accepted to Image Processing Online, 2017.](http://www.ipol.im/pub/art/2017/198/)
+
+
+      *Image: Texture inpainting of tissue*"
+      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_inpainting.ipynb"
+      btn_label: "Open In Colab"
+      btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Gaussian_texture_inpainting.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
     
 ---
 
 {% include feature_row id="feature_row1" %}
-{% include feature_row id="feature_rowAUX" %}
+{% include feature_row id="feature_row2" %}
+{% include feature_row id="feature_row3" %}
