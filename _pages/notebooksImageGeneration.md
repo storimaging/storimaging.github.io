@@ -93,7 +93,7 @@ feature_row3:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-      - title: "Texture synthesis with GMMOT"
+    - title: "Texture synthesis with GMMOT"
       image_path: /images/NotebookImages/Generation/TS_GMMOT.jpg
       excerpt: "This practical session implements the texture synthesis algorithm developed in
 [Arthur Leclaire, Julie Delon, Agnès Desolneux. Optimal Transport Between GMM for multiscale Texture Synthesis. 2022. hal-03613622](https://hal.science/hal-03613622/document)
