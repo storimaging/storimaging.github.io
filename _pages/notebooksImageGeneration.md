@@ -93,6 +93,23 @@ feature_row3:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
+	- title: "Image synthesis under line segments constraints"
+      image_path: /images/NotebookImages/Generation/Simpson_reconstr_R100.jpg
+      excerpt: "This practical session implements Image synthesis
+      under line segments constraints, as developed in
+[Desolneux, A. (2016). When the a contrario approach becomes generative. International Journal of Computer Vision, 116(1), 46-65.](http://desolneux.perso.math.cnrs.fr/papers/generative_rev.pdf)
+
+
+      *Image: texture synthesis with line segments*"
+      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/ImageReconstrutionLineSegments.ipynb"
+      btn_label: "Open In Colab"
+      btn_class: "btn--primary"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/ImageReconstrutionLineSegments.ipynb"
+      btn_label2: "Open In nbviewer"
+      btn_class2: "btn--primary"
+	  
+	  
+	  
 feature_row4:
     - title: "Energy based models"
       image_path: /images/NotebookImages/Generation/EnergyBasedModels.jpg 
