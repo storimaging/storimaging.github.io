@@ -93,17 +93,17 @@ feature_row3:
       url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
-    - title: "Texture synthesis with GMMOT"
+    - title: "Image synthesis with line segments constraints"
       image_path: /images/NotebookImages/Generation/TS_GMMOT.jpg
-      excerpt: "This practical session implements the texture synthesis algorithm developed in
-[Arthur Leclaire, Julie Delon, Agnès Desolneux. Optimal Transport Between GMM for multiscale Texture Synthesis. 2022. hal-03613622](https://hal.science/hal-03613622/document)
+      excerpt: "This practical session implements the image synthesis algorithm developed in
+[A. Desolneux, When the a contrario approach becomes generative, IJCV, 2016](https://desolneux.perso.math.cnrs.fr/papers/generative_rev.pdf)
 
 
-      *Image: texture synthesis*"
-      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
+      *Image: image reconstruction with line segments*"
+      url: "https://colab.research.google.com/github/storimaging/Notebooks/blob/main/ImageGeneration/ImageReconstrutionLineSegments.ipynb"
       btn_label: "Open In Colab"
       btn_class: "btn--primary"
-      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/Texture_synthesis_with_GMMOT.ipynb"
+      url2: "http://nbviewer.org/github/storimaging/Notebooks/blob/main/ImageGeneration/ImageReconstrutionLineSegments.ipynb"
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
 feature_row4:
