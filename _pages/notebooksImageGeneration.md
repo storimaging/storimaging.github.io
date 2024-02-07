@@ -94,7 +94,7 @@ feature_row3:
       btn_label2: "Open In nbviewer"
       btn_class2: "btn--primary"
     - title: "Image synthesis with line segments constraints"
-      image_path: /images/NotebookImages/Generation/TS_GMMOT.jpg
+      image_path: /images/NotebookImages/Generation/Simpson_reconstr_R100.jpg
       excerpt: "This practical session implements the image synthesis algorithm developed in
 [A. Desolneux, When the a contrario approach becomes generative, IJCV, 2016](https://desolneux.perso.math.cnrs.fr/papers/generative_rev.pdf)
 
